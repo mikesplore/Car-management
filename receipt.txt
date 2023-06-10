@@ -1,0 +1,4 @@
+Date of Purchase: 2023-06-09
+Car ID: 789
+Buyer's Name: Michael Odhiambo
+Purchase Amount: 250000
